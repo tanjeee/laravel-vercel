@@ -11,8 +11,8 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://flutter-api-vercel.vercel.app/",
-        "APP_KEY": "base64:da5SbaM1RQYEXLE8E6v/YT1Imcsj2RCV5fbajanb2jA=",
+        "APP_URL": "https://laravel-vercel-tan-jing-ens-projects.vercel.app/",
+        "APP_KEY": "base64:xo/WgCcy3n0/0DDhh+Y53lROKvvB75UM3LtRh9KSh+I=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
